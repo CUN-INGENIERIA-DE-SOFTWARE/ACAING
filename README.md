@@ -3,3 +3,4 @@ El proyecto ACAING busca dar cumplimiento a los requerimientos del ACA  de la ma
 Integrantes del proyecto con ro, o cargo de programadores: JHON ALEX MEZA RIVEIRA ficha 52221, JAVIER FERNANDO MENDEZ TORRES ficha 51169, JUAN CARLOS MARTINEZ HERNANDEZ ficha 51169, JORGE STEUE IZQUIERDO DUARTE 
 ficha 51169, como Scrum Master DIANA BOSA.xxx
 TEST
+hoy
