@@ -4,3 +4,5 @@ Integrantes del proyecto con ro, o cargo de programadores: JHON ALEX MEZA RIVEIR
 ficha 51169, como Scrum Master DIANA BOSA.xxx
 El día de hoy nos hemos reunido para acordar que el proyecto a desarrollar es sobre un parqueadero, este  proyectó se acomoda a las características del ACA, y se puede implementar en una unidad residencial. Se decide que vamos a tomar la tutoría con el profesor para aclarar algunas inquietudes.
 Acordamos asistir el equipo de trabajo a la sesión de tutorias el jueves 2 de mayo de 2024 de 0800 a 0900 pm con el fin de resolver dudas del manejo de los repositorios de la plataforma github.
+
+Se sube el archivo HTML para revision compañeros recuerden que la idea es generar un software para unidades residenciales, quedo atento a sus ideas o correcciones 
