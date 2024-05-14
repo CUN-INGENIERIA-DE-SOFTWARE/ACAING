@@ -6,3 +6,4 @@ El día de hoy nos hemos reunido para acordar que el proyecto a desarrollar es s
 Acordamos asistir el equipo de trabajo a la sesión de tutorias el jueves 2 de mayo de 2024 de 0800 a 0900 pm con el fin de resolver dudas del manejo de los repositorios de la plataforma github.
 
 Se sube el archivo HTML para revision compañeros recuerden que la idea es generar un software para unidades residenciales, quedo atento a sus ideas o correcciones 
+Se suben los archivos de Style.css bootstrao.min.css, bootstrap.min.js y core.js, con esto ya tenemos la base para el proyecto deberiamos dividir el trabajo para crear las credneciales de ingreso y la base de datos 
